@@ -1,0 +1,1 @@
+import{bl as i,dB as m,H as u,V as o}from"./index-CprWC2Bn.js";function t(){const r=i(m,null);return u(()=>{if(r===null)return o;const{mergedThemeRef:{value:n},mergedThemeOverridesRef:{value:e}}=r,d=(n==null?void 0:n.common)||o;return e!=null&&e.common?Object.assign({},d,e.common):d})}export{t as u};

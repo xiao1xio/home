@@ -1,0 +1,1 @@
+import{d as s,e as n,c as u,aa as c,g as p,ab as m}from"./index-CprWC2Bn.js";const l=s({name:"Redirect",setup(){const a=n(),t=u();return c(()=>{const{params:o,query:r}=a,{path:e}=o;t.replace({path:"/"+(Array.isArray(e)?e.join("/"):e),query:r})}),()=>p(m,null,null)}});export{l as default};
